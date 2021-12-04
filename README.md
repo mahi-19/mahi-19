@@ -1,4 +1,5 @@
-[![MasterHead](https://www.canva.com/design/DAExk3bHh2A/WUuSUGHXFILrnExbfndb5g/view?utm_content=DAExk3bHh2A&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)](https://github.com/mahi-19)
+<!-- [![MasterHead](https://www.canva.com/design/DAExk3bHh2A/WUuSUGHXFILrnExbfndb5g/view?utm_content=DAExk3bHh2A&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)](https://github.com/mahi-19) -->
+<img align="center" src="https://raw.githubusercontent.com/mahi-19/mahi-19/main/back.png"/></a>
 <h1 align="center">Hi 👋, I'm Vivek Upadhyay </h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
