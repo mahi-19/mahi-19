@@ -5,6 +5,355 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creator79&label=Profile%20views&color=129e00&style=plastic" alt="VivekUpadhyay" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<!-- /*****************************************************************************************************/ -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Github Profile Card Generator</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta name="theme-color" content="#333" />
+        <meta name="description" content="Github Profile Cards which you can embed on your website / blog">
+        <meta name="keywords" content="github profile card, github api, github cards, github widget, profile cards, github profile" >
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="author" content="HARUN PEHLİVAN" />
+        <meta name="copyright" content="HARUN PEHLİVAN" />
+        <meta name="robots" content="follow"/>
+        <meta property="og:type" content="webapp" />
+        <meta property="og:title" content="Github Profile Cards | by HARUN PEHLİVAN">
+        <meta property="og:url" content="https://apps.saurabhdaware.in/github-profile-card">
+        <meta property="og:image:secure_url" itemprop="image" content="https://s-ssl.wordpress.com/mshots/v1/https%3A%2F%2Fgithubprofilecards.glitch.me?w=360">
+        <meta property="og:image" itemprop="image" content="https://s-ssl.wordpress.com/mshots/v1/https%3A%2F%2Fgithubprofilecards.glitch.me?w=360">
+        <meta property="og:image:width" content="700" />
+        <meta property="og:image:height" content="700" />
+        <meta property="og:image:alt" content="Github Profile Cards Generator" />
+        <meta property="og:description" content="Github Profile Cards to Embed on blogs and websites">
+        <meta property="og:site_name" content="Github Profile Cards generator">
+        <link id="fontawesome" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://saurabhdaware.github.io/github-profile-card/cardStyle.css">
+        <link rel="icon" sizes="192x192" href="https://cdn-cms.f-static.com/uploads/1017556/400_5c2e25647a4c9.jpg">
+        <link href="https://fonts.googleapis.com/css?family=Acme|Francois+One" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
+
+        <script src='https://saurabhdaware.github.io/feasify-js/HttpModule.js'></script>
+        <style>
+            nav{
+                background-color:#ddd;
+                color:#000;
+                padding:10px 30px 10px 30px;
+                font-size:20pt;
+                font-weight: bolder;
+                border-bottom:3px solid #2c3e50;
+            }
+            nav a.fa{
+                text-decoration:none;
+                vertical-align: middle;
+            }
+            nav > a > img{
+                width:50px;
+                float:right;
+            }
+            .container{
+                margin-top:70px;
+                padding:70px;
+                text-align:center;
+                font-family: 'Acme', sans-serif;
+            }
+            .container .h1{
+                font-family: 'Francois One', sans-serif;
+            }
+            .h1{
+                border-bottom:2px solid #09f;
+                font-size:20pt;
+            }
+            .form-container{
+                text-align: left;
+                padding:50px 100px;
+            }
+            .w3-radio{
+                outline:0 !important;
+            }
+            #reposSelectContainer{
+                max-height:300px;
+                overflow-y:scroll;
+                background-color:#fff;
+                padding:0px 30px;
+                border:1px solid #111;
+                display:none;
+            }
+
+            #codeeditorfeels{
+                background-color:#222;
+                color:#999;
+                font-family: 'Titillium Web', sans-serif;
+                padding:20px;
+                font-size:9pt;
+                border:2px solid #000;
+            }
+            .tag{
+                color:#09f;
+            }
+            .attribute{
+                color:#8ff
+            }
+            .value{
+                color:rgb(255, 170, 170);
+            }
+            .gh-desc{
+                text-align:left;
+                padding:10px 100px;
+            }
+            .gh-desc > a{
+                color:#09f;
+            }
+            @media (max-width:768px){
+                .responsive-h1{
+                    font-size:14pt;
+                }
+                .container{
+                    padding:40px 0px 30px 0px;
+                }
+                .form-container{
+                    padding:10px 20px;
+                }
+                .card-preview{
+                    padding-top:20px;
+                }
+                #codeeditorfeels{
+                    padding:14px;
+                    font-size:7pt;
+                }
+                .gh-desc{
+                    padding:10px 10px;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <nav style="position:fixed;top:0;left:0;width:100%;z-index:1000;" class="cv-buttons-container w3-card-4">
+            <a class="fa fa-angle-left" href="https://harunpehlivantebimtebitagem.carrd.co"></a>
+            <a href="https://harunpehlivantebimtebitagem.site123.me/"> <img src="https://cdn-cms.f-static.com/uploads/1017556/400_5c2e25647a4c9.jpg"></a>
+        </nav>
+        <div class="container">
+            <span class="h1 responsive-h1">Welcome to Github Profile Card Generator <span class="fa fa-github"></span></span><br><br>
+            <div class="w3-small w3-opacity gh-desc">Hey There! Here you can generate Github Profile Card which you can furthur embed into your blog / website, Just enter your github username below and select repositories and tadaa! You will get a code, just include it into your website. You can find full documentation of this project on <a href="https://github.com/harunpehlivan/github-profile-card">https://github.com/saurabhdaware/github-profile-card/</a></div>
+            <br><br>
+            <div class="w3-row">
+                <div class="w3-col l8 w3-card s12">
+                    <div class="form-container w3-light-grey">
+                        <label class="w3-text-blue"><b>Github Username : </b></label>
+                        <input class="w3-input w3-border w3-white" id="username" type="text"><br>
+                        
+                        <label class="w3-text-blue"><b>Repositories that you want to add:</b></label>
+                        <br>
+                        <input class="w3-radio" type="radio" onclick="radioClickHandler()" name="repos" value="all">
+                        <label>Add All</label> &nbsp; &nbsp;
+
+                        <input class="w3-radio" type="radio" onclick="radioClickHandler()" name="repos" value="specify">
+                        <label>Specify</label> &nbsp; &nbsp;
+
+                        <input class="w3-radio" type="radio" onclick="radioClickHandler()" name="repos" value="none">
+                        <label>None</label> 
+                        <br><br>
+                        <div class="w3-animate-opacity" id="reposSelectContainer">
+                        </div>
+                        <br>
+                        <div id="codeeditorfeels">
+                        </div>
+                    </div>
+                </div>
+                <div class="w3-col l4 s12 card-preview" id="cardPreview">
+                    <span>Preview!</span><br>
+                    <div username='saurabhdaware' repos='all' id='card' class='github-card'></div>
+                </div>
+            </div>
+        </div>
+        <div id="footer" style="text-align:right;font-family: 'Francois One', sans-serif;background-color:#2c3e50;color:#fff;padding:20px 30px;font-size:13pt" class="w3-card-4 w3-border-top w3-border-blue">
+            <a style="text-decoration:none;" href="https://tr.gravatar.com/tebm">HARUN PEHLİVAN</a>
+        </div>
+        <script>
+            class Card {
+                constructor(cardElem) {
+                    this.allReposFlag = false;
+                    this.cardElem = cardElem;
+                    if (!cardElem.getAttribute('repos') && cardElem.getAttribute('repos').toLowerCase() !== 'all') {
+                        this.repos = [];
+                        if (cardElem.getAttribute('repo1')) {
+                        this.repos.push(cardElem.getAttribute('repo1'));
+                        }
+                        if (cardElem.getAttribute('repo2')) {
+                        this.repos.push(cardElem.getAttribute('repo2'));
+                        }
+                    }else if(cardElem.getAttribute('repos').toLowerCase() === 'all'){
+                        this.repos = 'all';
+                    } 
+                    else {
+                        this.repos = cardElem.getAttribute('repos').split(',');
+                    }
+                    this.username = cardElem.getAttribute('username');
+                }
+                create() {
+                if (!this.username) {
+                    console.log('Error00:Username not specified');
+                    return;
+                }
+                let http = new HttpModule();
+                http.get('https://api.github.com/users/' + this.username).then((card) => {
+                    let cardContainer = document.createElement('div');
+                    cardContainer.classList.add('github-card-container');
+                    cardContainer.innerHTML =
+                    `
+                <div class='github-card-header'>
+                    <img class='github-card-logo' src='https://magentys.io/wp-content/uploads/2017/04/github-logo-1.png'>
+                </div>
+                <div class='github-card-content'>
+                    <table class='github-card-image-text-wrap'>
+                        <td><img class='github-card-avatar' src='${card.avatar_url}' width=100></td>
+                        <td class='github-card-name'>
+                            ${(card.name && card.name.length < 16)?card.name:card.login}<br />
+                            <span style='color:#222;font-size:9pt;'>Followers: ${card.followers} | Following: ${card.following}</span><br />
+                            <a target='_blank' class='github-card-button' href='${card.html_url}'>View profile</a>
+                        </td>
+                    </table>
+                </div><br /><br /><br /><br />
+            `;
+                    this.cardElem.appendChild(cardContainer);
+                }).then(() => {
+                    if(this.repos === 'all'){this.allReposFlag = true;}
+                    if (this.repos.length > 0 || this.allReposFlag)  {
+                    try {
+                        http.get(`https://api.github.com/users/${this.username}/repos`).then((reposData) => {
+                        let reposFound = [];
+                        if(this.allReposFlag){
+                            reposFound = reposData;
+                        }else{
+                            this.repos.forEach(function(userAddedRepos) {
+                            reposData.forEach(function(userAllRepos) {
+                                if (userAddedRepos.toLowerCase().trim() === userAllRepos.name.toLowerCase().trim()) {
+                                reposFound.push(userAllRepos);
+                                }
+                            });
+                            });
+                        }
+                        if (reposFound.length > 0) {
+                            let cardContainer = this.cardElem.querySelector('.github-card-container');
+                            cardContainer.innerHTML += "<span id='github-card-repo-headline' style='font-size:9pt;color:#777font-weight:bold;margin:text-align:center'><center>Repositories</center></span><div class='github-card-repos' id='github-card-repos'></div>";
+                            reposFound.forEach(function(card, i) {
+                            if(!card.language){card.language = ' -';}
+                            var div = document.createElement('div');
+                            div.id = 'github-card-repo' + (i + 1);
+                            div.innerHTML = "<a class='github-card-repo-headline' href=" + card.html_url + "><b>" + card.name + "</b></a><br><span class='github-card-repo-desc'>" + card.description + "</span><br><span class='gc-lang' style='font-size:8pt;'>&#9733;"+ card.language + "</span>";
+                            div.classList.add('github-card-repo');
+                            cardContainer.querySelector('.github-card-repos').appendChild(div);
+                            });
+                        }
+                        }).catch((err) => {
+                        console.log("Error02: " + err);
+                        });
+                    } catch {
+                        console.log("Error03");
+                    }
+                    }
+                }).catch((err) => {
+                    console.log("Error01: " + err)
+                });
+                }
+            }
+        </script>
+        <script>
+            let reposSelectContainer = document.getElementById('reposSelectContainer');
+            let selectedRepos = [];    
+            let cardPreviewContainer = document.getElementById('cardPreview');
+            let repos = '';
+            let username = document.getElementById("username");
+            let http = new HttpModule();
+
+            function callApi(){
+                reposSelectContainer.innerHTML = '';
+                http.get(`https://api.github.com/users/${username.value}/repos`)
+                .then((res)=>{
+                    document.getElementById('card').setAttribute('username',username.value);
+                    for(let repo of res){
+                        reposSelectContainer.innerHTML = reposSelectContainer.innerHTML + `<input class='w3-check' type='checkbox' value='${repo.name}' onclick='checkboxClickHandler()'><label> &nbsp; ${repo.name}</label><br>`;
+                    }
+                    return res;
+                }).then((res)=>{
+                    let card = new Card(document.getElementById('card'));
+                    card.create();
+                    radioClickHandler();
+                })
+
+            }
+
+            function checkboxClickHandler(){
+                selectedRepos = [];
+                for(let check of document.getElementsByClassName('w3-check')){
+                    if(check.checked){
+                        selectedRepos.push(check.value)
+                    }
+                }
+                repos = selectedRepos.join(',');
+                loadData(repos);
+            }
+            function loadData(reposList='all'){
+                if(document.getElementById('card')){
+                    let cardRemove = document.getElementById("card");
+                    cardRemove.parentNode.removeChild(cardRemove);
+                }
+                document.getElementById('codeeditorfeels').innerHTML = 
+                `
+                            &lt;!-- Paste wherever you want your card to render --&gt;<br>
+                            &lt;<span class='tag'>div</span> <span class='attribute'>username</span>=<span class='value'>'${username.value}'</span> <span class='attribute'>repos</span>=<span class='value'>'${reposList}'</span> <span class='attribute'>class</span>=<span class='value'>'github-card'</span> <span class='attribute'>id</span>=<span class='value'>'card'</span>&gt;&lt;/<span class="tag">div</span>&gt;<br>
+                            <br>&lt;!-- Paste this script tag in head tag or before body close tag --&gt;<br>
+                            &lt;<span class='tag'>script</span> <span class='attribute'>src</span>=<span class='value'>'https://saurabhdaware.github.io/github-profile-card/card.js'</span>&gt;&lt;/<span class="tag">script</span>&gt;
+                `;
+                let cardEl = document.createElement('div');
+                cardEl.setAttribute('username',username.value);
+                cardEl.setAttribute('repos',reposList);
+                cardEl.id = 'card';
+                cardEl.className = 'github-card';
+                cardPreviewContainer.appendChild(cardEl);
+                let card = new Card(document.getElementById('card'));
+                card.create();
+            }
+            username.addEventListener('focusout',callApi);
+
+            function radioClickHandler(){
+                let radioSelect = document.querySelector('input[name="repos"]:checked').value;
+                console.log(radioSelect);
+                if(radioSelect == 'all'){
+                    reposSelectContainer.style.display = 'none';
+                    loadData('all');
+                }else if(radioSelect == 'specify'){
+                    reposSelectContainer.style.display = 'block';
+                    loadData(repos);
+                }else{
+                    reposSelectContainer.style.display = 'none';
+                    loadData('');
+                }
+
+            }
+         
+        </script>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- /********************************************************************************************************************/ -->
 
 - 👨‍💻 You can also check out my portfolio at  <a href="https://creator79.github.io/portfolio1/">Portfolio</a>
 
