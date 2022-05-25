@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creator79&label=Profile%20views&color=129e00&style=plastic" alt="VivekUpadhyay" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e484e942274803.57c7183e08d3b.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mahi-19/mahi-19/main/dribble.png">
 
 
 - 👨‍💻 You can also check out my portfolio at  <a href="https://creator79.github.io/portfolio1/">Portfolio</a>
