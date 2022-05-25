@@ -25,5 +25,5 @@ h3 align="left">Languages and Tools:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creator79&show_icons=true&locale=en&layout=compact" alt="mahi-19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=craetor79&show_icons=true&locale=en" alt="mahi-19" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creator79&show_icons=true&locale=en" alt="mahi-19" /></p>
 
