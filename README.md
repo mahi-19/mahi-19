@@ -4,7 +4,8 @@
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creator79&label=Profile%20views&color=129e00&style=plastic" alt="VivekUpadhyay" /> </p>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/42274803/Dribbble-debut-shot-GIF/modules/254780639">
 
 - 👨‍💻 You can also check out my portfolio at  <a href="https://creator79.github.io/portfolio1/">Portfolio</a>
 
