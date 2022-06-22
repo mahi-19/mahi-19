@@ -9,8 +9,10 @@
 <img align="left" alt="Coding" width="500"  src="https://raw.githubusercontent.com/creator79/creator79/main/dribble.gif">
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
  </div>
+ 
+<!--   <img align="right" alt="Coding" width ="900" height= "250" src="https://raw.githubusercontent.com/creator79/creator79/main/line.gif"> -->
 <span align = "down">
- <img align="right" alt="Coding" width="500" src="https://davidbanthony.com/blog/2020/11/13/text-animations-creative-coding">
+
 - 👨‍💻 You can also check out my portfolio at  <a href="https://creator79.github.io/portfolio1/">Portfolio</a>
 
 - 📫 How to reach me **talk to upadhyayvivek.19@gmail.com**
