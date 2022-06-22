@@ -6,22 +6,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creator79&label=Profile%20views&color=129e00&style=plastic" alt="VivekUpadhyay" /> </p>
 
 <div align="center">
-<img align="left" alt="Coding" width="400"  src="https://raw.githubusercontent.com/creator79/creator79/main/dribble.gif">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="left" alt="Coding" width="500"  src="https://raw.githubusercontent.com/creator79/creator79/main/dribble.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
  </div>
-
+<span align = "down">
+ <img align="right" alt="Coding" width="500" src="https://davidbanthony.com/blog/2020/11/13/text-animations-creative-coding">
 - 👨‍💻 You can also check out my portfolio at  <a href="https://creator79.github.io/portfolio1/">Portfolio</a>
 
 - 📫 How to reach me **talk to upadhyayvivek.19@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://creator79.github.io/portfolio1/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/creator79/">LinkedIn</a> - 
   <a href="https://www.instagram.com/mahi_creator/">Insagram</a></p>
+ </span>
+
 <div align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
