@@ -10,8 +10,7 @@
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
  </div>
  
-<!--   <img align="right" alt="Coding" width ="900" height= "250" src="https://raw.githubusercontent.com/creator79/creator79/main/line.gif"> -->
-<span align = "down">
+<div >
 
 - 👨‍💻 You can also check out my portfolio at  <a href="https://creator79.github.io/portfolio1/">Portfolio</a>
 
@@ -25,7 +24,7 @@
   <a href="https://creator79.github.io/portfolio1/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/creator79/">LinkedIn</a> - 
   <a href="https://www.instagram.com/mahi_creator/">Insagram</a></p>
- </span>
+ </div>
 
 <div align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
