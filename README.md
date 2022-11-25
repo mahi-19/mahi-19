@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creator79&label=Profile%20views&color=129e00&style=plastic" alt="VivekUpadhyay" /> </p>
 
 <div align="center">
-<img align="left" alt="Coding" width="450"  src="https://raw.githubusercontent.com/creator79/creator79/main/dribble.gif">
+<img align="1266" alt="Coding" width="450"  src="https://raw.githubusercontent.com/creator79/creator79/main/dribble.gif">
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
  
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I think I am funny XD**
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="centre">Connect with me:</h3>
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://creator79.github.io/portfolio1/">Portfolio</a> -
