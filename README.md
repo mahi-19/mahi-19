@@ -8,7 +8,7 @@
 <div align="center">
 <img align="left" alt="Coding" width="450"  src="https://raw.githubusercontent.com/creator79/creator79/main/dribble.gif">
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
- </div>
+
  
 <div >
 
