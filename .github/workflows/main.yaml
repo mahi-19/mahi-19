@@ -11,11 +11,6 @@ on:
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-  
-    # run on every push on the master branch
-  push:
-    branches:
-    - master
 
 # The sequence of runs in this workflow:
 jobs:
@@ -57,5 +52,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-Step 3. Running GitHub Actions
-On
