@@ -22,7 +22,6 @@ Need help building your community or Web app? You can contact me on ! <a href="h
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,jquery,bootstrap,vscode,mongodb,postgres,cloudflare,discord,github,git)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=creator79&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=creator79&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=creator79&theme=react-dark&hide_border=true&area=true)
 ![Snake animation](https://github.com/creator79/creator79/blob/output/github-contribution-grid-snake.svg)
 <img src="https://komarev.com/ghpvc/?username=creator79&color=brightgreen" alt="watching_count" />
 
