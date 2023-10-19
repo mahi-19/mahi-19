@@ -16,7 +16,7 @@
 
 ɪꜰ ʏᴏᴜ'ʀᴇ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ᴀ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴀɴᴅ ᴛᴀʟᴇɴᴛᴇᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ɪ ᴡᴏᴜʟᴅ ʙᴇ ᴛʜʀɪʟʟᴇᴅ ᴛᴏ ᴡᴏʀᴋ ᴡɪᴛʜ ʏᴏᴜ. ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴛᴏ ᴍᴇ ᴛᴏ ᴅɪꜱᴄᴜꜱꜱ ʏᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ᴏʀ ɪᴅᴇᴀꜱ. ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴛᴀᴋɪɴɢ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ ʀᴇᴀᴅ ᴍʏ ᴀʙᴏᴜᴛ ꜱᴇᴄᴛɪᴏɴ!
 <!--  Contact Section-->
-Need help building your community or Web app? You can contact me on ! <a href="https://vivek-upadhyay-lac-two.vercel.app/">Portfolio</a> <a href="https://www.linkedin.com/in/vivekupadhyay-/">Linkdein</a>
+Need help building your community or Web app? You can contact me on ! <a href="https://vivekdev.vercel.app/">Portfolio</a> <a href="https://www.linkedin.com/in/vivekupadhyay-/">Linkdein</a>
 ### My Skills and Tools & Software I Use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,tailwind,vscode,mongodb,postgres,next,cloudflare,discord,github,git)
 # 📊 GitHub Stats:
